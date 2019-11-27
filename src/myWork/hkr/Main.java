@@ -8,5 +8,9 @@ public class Main {
         System.out.println(a*6);
         Scanner input = new Scanner(System.in);
 
+
+    }
+    public printValue(){
+        
     }
 }
